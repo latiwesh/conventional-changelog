@@ -1,10 +1,10 @@
 {
-  "name": "conventional-changelog-core",
-  "version": "4.2.2",
+  "name": "@latiwesh/conventional-changelog-core",
+  "version": "4.2.3",
   "description": "conventional-changelog core",
   "repository": {
     "type": "git",
-    "url": "https://github.com/conventional-changelog/conventional-changelog.git"
+    "url": "git+https://github.com/conventional-changelog/conventional-changelog.git"
   },
   "keywords": [
     "conventional-changelog",
@@ -30,7 +30,7 @@
     "conventional-changelog-writer": "^5.0.0",
     "conventional-commits-parser": "^3.2.0",
     "dateformat": "^3.0.0",
-    "@latiwesh@get-pkg-repo": "^2.0.1",
+    "get-pkg-repo": "git+https://github.com/latiwesh/get-pkg-repo.git",
     "git-raw-commits": "^2.0.8",
     "git-remote-origin-url": "^2.0.0",
     "git-semver-tags": "^4.1.1",
@@ -47,5 +47,11 @@
   },
   "devDependencies": {
     "conventional-changelog-angular": "^5.0.12"
-  }
+  },
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "author": "latiwesh"
 }
