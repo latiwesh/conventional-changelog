@@ -19,7 +19,7 @@
   "license": "ISC",
   "main": "",
   "name": "conventional-changelog-monorepo",
-  "private": true,
+  "private": false,
   "renovate": {
     "extends": [
       "config:base",
@@ -48,7 +48,7 @@
     "c8": "^7.1.2",
     "chai": "^4.2.0",
     "concat-stream": "^2.0.0",
-    "@latiwesh/conventional-changelog-core": "^4.2.3",
+    "conventional-changelog-core": "https://github.com/latiwesh/conventional-changelog.git",
     "coveralls": "^3.0.2",
     "eslint": "^7.0.0",
     "eslint-config-standard": "^16.0.1",
