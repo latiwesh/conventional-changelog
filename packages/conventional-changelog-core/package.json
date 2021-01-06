@@ -1,6 +1,6 @@
 {
   "name": "@latiwesh/conventional-changelog-core",
-  "version": "4.2.3",
+  "version": "4.2.4",
   "description": "conventional-changelog core",
   "repository": {
     "type": "git",
@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/conventional-changelog/conventional-changelog/tree/master/packages/conventional-changelog-core#readme",
   "dependencies": {
-    "@latiwesh/get-pkg-repo": "^2.0.1",
+    "@latiwesh/get-pkg-repo": "^2.0.2",
     "add-stream": "^1.0.0",
     "conventional-changelog-writer": "^5.0.0",
     "conventional-commits-parser": "^3.2.0",

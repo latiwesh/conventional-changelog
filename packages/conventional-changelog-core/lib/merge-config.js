@@ -1,6 +1,6 @@
 'use strict'
 const dateFormat = require('dateformat')
-const getPkgRepo = require('get-pkg-repo')
+const getPkgRepo = require('@latiwesh/get-pkg-repo')
 const gitSemverTags = require('git-semver-tags')
 const normalizePackageData = require('normalize-package-data')
 const Q = require('q')
