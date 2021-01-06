@@ -1,6 +1,6 @@
 'use strict'
 
-const conventionalChangelogCore = require('conventional-changelog-core')
+const conventionalChangelogCore = require('@latiwesh/conventional-changelog-core')
 const conventionalChangelogPresetLoader = require('conventional-changelog-preset-loader')
 
 function conventionalChangelog (options, context, gitRawCommitsOpts, parserOpts, writerOpts) {

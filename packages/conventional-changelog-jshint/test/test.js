@@ -1,5 +1,5 @@
 'use strict'
-const conventionalChangelogCore = require('conventional-changelog-core')
+const conventionalChangelogCore = require('@latiwesh/conventional-changelog-core')
 const config = require('../')
 const mocha = require('mocha')
 const describe = mocha.describe

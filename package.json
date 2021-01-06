@@ -36,9 +36,9 @@
     "test": "c8 mocha --timeout 30000 packages/*/test{,/*}.js",
     "test-windows": "c8 mocha --timeout 60000 packages/*/test{,/*}.js"
   },
-  "version": "9.1.1",
+  "version": "9.1.2",
   "devDependencies": {
-    "@latiwesh/conventional-changelog-core": "^4.2.4",
+    "@latiwesh/conventional-changelog-core": "^4.2.5",
     "better-than-before": "^1.0.0",
     "c8": "^7.1.2",
     "chai": "^4.2.0",
@@ -69,6 +69,5 @@
   },
   "bugs": {
     "url": "https://github.com/conventional-changelog/conventional-changelog/issues"
-  },
-  "dependencies": {}
+  }
 }

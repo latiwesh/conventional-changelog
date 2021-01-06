@@ -1,6 +1,6 @@
 'use strict'
 
-const conventionalChangelogCore = require('conventional-changelog-core')
+const conventionalChangelogCore = require('@latiwesh/conventional-changelog-core')
 const angular = require('conventional-changelog-angular')
 const fs = require('fs')
 const accessSync = require('fs-access').sync
