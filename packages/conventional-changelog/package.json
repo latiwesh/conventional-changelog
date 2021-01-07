@@ -29,7 +29,7 @@
   },
   "homepage": "https://github.com/conventional-changelog/conventional-changelog/tree/master/packages/conventional-changelog#readme",
   "dependencies": {
-    "@latiwesh/conventional-changelog-core": "^4.2.5",
+    "@latiwesh/conventional-changelog-core": "5.0.2",
     "conventional-changelog-angular": "^5.0.12",
     "conventional-changelog-atom": "^2.0.8",
     "conventional-changelog-codemirror": "^2.0.8",
