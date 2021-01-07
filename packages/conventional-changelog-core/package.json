@@ -1,6 +1,6 @@
 {
   "name": "@latiwesh/conventional-changelog-core",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "conventional-changelog core",
   "repository": {
     "type": "git",
@@ -52,5 +52,6 @@
   "directories": {
     "lib": "lib",
     "test": "test"
-  }
+  },
+  "author": ""
 }

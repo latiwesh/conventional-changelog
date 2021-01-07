@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [5.0.1](https://bitbucket.agile.bns/mrvl/cdb-lib-credit-p9-connector/compare/v5.0.0...v5.0.1) (2021-01-07)
+
 ## [5.0.0](https://bitbucket.agile.bns/mrvl/cdb-lib-credit-p9-connector/compare/v1.1.0...v5.0.0) (2021-01-07)
 
 
