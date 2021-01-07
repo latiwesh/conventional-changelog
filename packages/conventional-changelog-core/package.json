@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/conventional-changelog/conventional-changelog/tree/master/packages/conventional-changelog-core#readme",
   "dependencies": {
-    "@latiwesh/get-pkg-repo": "^2.0.2",
+    "@latiwesh/get-pkg-repo": "^2.1.0",
     "add-stream": "^1.0.0",
     "conventional-changelog-writer": "^5.0.0",
     "conventional-commits-parser": "^3.2.0",
@@ -52,6 +52,5 @@
   "directories": {
     "lib": "lib",
     "test": "test"
-  },
-  "author": "latiwesh"
+  }
 }
